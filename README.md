@@ -62,3 +62,4 @@ Each model is evaluated using various metrics such as:
 Example Output:
 
 For the Logistic Regression Model:
+![Netflix Logo](https://github.com/vijay1612/Netfllix_pro/blob/main/pngimg.com%20-%20netflix_PNG6.png)
