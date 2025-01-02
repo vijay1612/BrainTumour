@@ -63,3 +63,24 @@ Example Output:
 
 For the Logistic Regression Model:
 ![Accuracy Output](https://github.com/vijay1612/BrainTumour/blob/main/IMG_D745AB07BD19-1.jpeg)
+Training and Testing
+
+For CNN models:
+	•	CNN from Scratch:
+	•	Accuracy: 91.0%
+	•	Precision: 89.4%
+	•	Recall: 90.5%
+	•	F1 Score: 90.0%
+	•	ResNet Transfer Learning:
+	•	Accuracy: 85.5%
+	•	Precision: 80.5%
+	•	Recall: 89.3%
+	•	F1 Score: 84.7%
+	•	ML + DL Ensemble:
+	•	Accuracy: 94.7%
+	•	Precision: 93.5%
+	•	Recall: 94.7%
+	•	F1 Score: 94.1%
+ Conclusion
+
+This project demonstrates the use of both traditional machine learning and deep learning techniques for classifying brain tumor images. We used a combination of image-based features and CNN architectures to classify the data, achieving impressive results with both approaches. The ensemble model combining machine learning and deep learning models provided the best performance.
