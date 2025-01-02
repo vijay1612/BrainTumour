@@ -1,0 +1,11 @@
+numpy==1.21.0
+pandas==1.3.0
+matplotlib==3.4.3
+tensorflow==2.6.0
+scikit-learn==0.24.2
+prettytable==2.4.0
+
+Dataset
+
+The dataset used for this project is the "https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor"
+It consists of images labeled as Tumor and Non Tumor along with associated features.
